@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Building Microservices",
+    "author": "Sam Newman",
+    "imageUrl": "https://m.media-amazon.com/images/I/51bejzpSQyL._SX198_BO1,204,203,200_QL40_ML2_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Gatsby E-Commerce",
+    "author": "Alex Libby",
+    "imageUrl": "https://bilder.buecher.de/produkte/62/62295/62295038n.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Rust Web Programming",
+    "author": "Maxwell Flitton",
+    "imageUrl": "https://m.media-amazon.com/images/I/51INW8UP9oL._SX404_BO1,204,203,200_.jpg"
+  }
+]

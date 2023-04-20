@@ -1,0 +1,39 @@
+body {
+  background-color: #333;
+  color: #ccc;
+  font-family: sans-serif;
+  padding: 0 1rem;
+
+  h1 {
+    color: orange;
+  }
+
+  .book {
+    display: flex;
+    padding: 20px;
+
+    img {
+      border: 1px solid #444;
+      box-shadow: 3px 2px 7px -4px #000;
+    }
+
+    .cover {
+      min-width: 100px;
+      max-width: 100px;
+    }
+
+    .info {
+      margin: 0 0 0 10px;
+
+      .title {
+        font-size: 1.5rem;
+        font-weight: bold;
+      }
+
+      .author {
+        font-size: 1.5rem;
+        color: #e7e793;
+      }
+    }
+  }
+}
