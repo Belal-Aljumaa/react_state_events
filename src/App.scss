@@ -25,6 +25,14 @@ body {
     .info {
       margin: 0 0 0 10px;
 
+      .isLiked {
+        color: red;
+    }
+
+    .isNotLiked {
+        color: gray;
+    }
+
       .title {
         font-size: 1.5rem;
         font-weight: bold;
